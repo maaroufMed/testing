@@ -1,0 +1,88 @@
+/* Mobile */
+@media (max-width: 767px) {
+
+	/*
+	======== star nav bar =======
+	*/
+
+	/* change background color for nav bar*/
+	.navbar-inverse{background-color: #fff !important}
+	/* change background color for nav bar*/
+
+	/* change color for brand*/
+	.navbar-inverse .navbar-brand{
+		padding-top: 18px;
+		color: #000 !important
+	}
+	/* change color for brand*/
+
+
+	/* change color a for nav bar*/
+	.navbar-inverse .navbar-nav > li > a{
+		padding-top: 10px;
+		padding-bottom: 10px;
+		color: #000 !important
+	}
+	/* change color a for nav bar*/
+
+
+	/* change color link home */
+	.navbar-inverse .navbar-nav > .active > a{color: #000 !important;}
+
+	.navbar-inverse .navbar-nav > .active > a:hover{color: #16a085 !important}
+	/* change color link home */
+
+
+
+	/* change border color from navbar*/
+	.navbar-inverse .navbar-collapse, 
+	.navbar-inverse .navbar-form{
+		border-color: rgba(0,0,0,0.1) !important
+	}
+	/* change border color from navbar*/
+
+
+	/* dropdown-menu */
+	.navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse { max-height: none}
+
+	.navbar-nav > li > .dropdown-menu{padding-left: 5px}
+
+	.navbar-inverse .navbar-nav .open .dropdown-menu > li a{
+		color: inherit;
+	    font-weight: 200;
+	    font-size: 13px;
+	    font-weight: 600;
+	}
+	.navbar-inverse .navbar-nav .open .dropdown-menu > li a:hover{color: #16a085}
+	/* dropdown-menu */
+
+
+	/*
+	======== end nav bar =======
+	*/
+
+	
+	/* star sibsucribe */
+	.subsicribe .form-inline .form-control{
+		width: 100%;
+		margin-bottom: 20px
+		
+	}
+
+
+}
+
+/* Smoll Screen */
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/* Medium Screen*/
+@media (min-width: 992px) and (max-width: 1199px) {file:///C:/Users/maarouf/Desktop/bootstrap%20design%201/img/2.jpg
+
+}
+
+/* Large Screen */
+@media (min-width: 1200px) {
+
+}

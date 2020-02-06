@@ -1,0 +1,54 @@
+
+/* color = */
+.navbar-brand span,
+.navbar-inverse .navbar-brand:hover, 
+.navbar-inverse .navbar-brand:focus,
+.navbar-inverse .navbar-nav > .active > a, 
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus,
+.navbar-inverse .navbar-nav > li > a:hover, 
+.navbar-inverse .navbar-nav > li > a:focus,
+.features .feat span.glyphicon,
+.testimonils h3,
+h1 span,
+h2 span,
+.pracing-table .box-pricing p,
+.our-stats .stats-icon,
+.our-skills .skills-info button,
+footer .copyright span,
+.our-contact button:hover,
+.dropdown-menu > li > a:hover,  
+.dropdown-menu > li > a:focus
+{
+	color: #d63031 !important
+}
+
+/* backround color */
+
+.our-team .team ul,
+.subsicribe .btn,
+.our-contact button,
+.our-skills .skills-info button:hover
+{
+
+	background-color: #d63031 
+}
+
+/* border */
+.our-skills .skills-info button,
+.our-contact button:hover{
+
+	  border: 2px solid #d63031
+}
+
+
+.dropdown-menu,
+.features .feat{
+	border-top: 3px solid #d63031
+}
+
+
+
